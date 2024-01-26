@@ -12,4 +12,3 @@ This research aims to identify the most optimal hyperprior distribution and para
 The findings indicate that, across different conditions, the Uniform hyperprior distribution proves to be the most optimal choice. 
 
 Keywords: Spatiotemporal disease mapping, Hierarchical Bayesian, Hyperprior, Variance Component 
-![image](https://github.com/mindra-bit/Sensitivity/assets/71346670/67e88ece-ff8f-4723-92cd-080587167bf9)
