@@ -11,4 +11,4 @@ While the LogGamma approach is relatively straightforward with faster computing 
 This research aims to identify the most optimal hyperprior distribution and parameters under various conditions of spatial and temporal autocorrelation, as well as observation units, through a Monte Carlo study. Real data on dengue cases in West Java are utilized alongside simulation results. 
 The findings indicate that, across different conditions, the Uniform hyperprior distribution proves to be the most optimal choice. 
 
-Keywords: Spatiotemporal disease mapping, Hierarchical Bayesian, Hyperprior, Variance Component 
+Keywords: Spatiotemporal disease mapping, Hierarchical Bayesian, Hyperprior, Variance Component
